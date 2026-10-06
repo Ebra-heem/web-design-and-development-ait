@@ -1,4 +1,4 @@
-# web-design-and-development-ait
+# Web Design and Development - AIT Course
 AIT web design and development course
 
 **What have we learned in the Day-01 class**
