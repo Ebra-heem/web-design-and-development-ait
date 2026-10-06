@@ -1,7 +1,7 @@
 # web-design-and-development-ait
 AIT web design and development course
 
-** What have we learned in the Day-01 class **
+**What have we learned in the Day-01 class**
 + Basic HTML syntax
 + Favicon adding
 + Adding an image tag to a website
